@@ -6,7 +6,7 @@ from database import add_transaction, get_transactions
 
 st.set_page_config(page_title="Expense Tracker", page_icon="💰", layout="wide")
 
-st.title("💰 Personal Expense Tracker")
+st.title("Personal Expense Tracker")
 st.write("Track income, expenses, savings, and spending patterns.")
 
 st.subheader("Add Transaction")
